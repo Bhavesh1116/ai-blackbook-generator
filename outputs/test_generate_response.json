@@ -1,0 +1,29 @@
+{
+  "ai_metadata": {
+    "character_count": 14671,
+    "model": "gemini-2.5-flash",
+    "word_count": 1847
+  },
+  "document_info": {
+    "file_size": 41708,
+    "file_size_kb": 40.73,
+    "sections": [
+      "abstract",
+      "introduction",
+      "literature_review",
+      "methodology",
+      "results",
+      "conclusion"
+    ],
+    "sections_count": 6
+  },
+  "download_link": "/download/ae80fd29",
+  "download_link_full": "/api/download/Artificial_Intelligence_in_Edu_ae80fd29.docx",
+  "download_url": "http://localhost:5000/download/ae80fd29",
+  "download_url_full": "http://localhost:5000/api/download/Artificial_Intelligence_in_Edu_ae80fd29.docx",
+  "file_id": "ae80fd29",
+  "filename": "Artificial_Intelligence_in_Edu_ae80fd29.docx",
+  "message": "Document generated successfully",
+  "success": true,
+  "topic": "Artificial Intelligence in Education"
+}
